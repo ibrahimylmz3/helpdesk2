@@ -1,0 +1,8 @@
+firs commit
+veri tabanı bağlantısı oluşturuldu
+kullanıcı girişi oluşturuldu
+
+second commit
+kullanıcı kayıt ve giriş formları hazırlandı
+kullanıcı kayıt edilirken 
+	ad,soyad,username,email,password ve repassword alanları if ile değerleri kontrol edildi.
